@@ -13,7 +13,7 @@ You need the following two programs installed to use this project
 
 1. Clone the repo
   ```sh
-  $git clone https://github.com/TTP-Group3/fifa-2022-worldcup-countdown.git
+  $ git clone https://github.com/TTP-Group3/fifa-2022-worldcup-countdown.git
   ```
 2. Make sure that you are in the root directory of the project, use "pwd" or "cd" for windows
   ```sh
