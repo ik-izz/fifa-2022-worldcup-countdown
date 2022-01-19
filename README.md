@@ -21,7 +21,7 @@ You need the following two programs installed to use this project
   ```
 3. Install NPM packages
   ```sh
-  $ npm install
+  $ npm install --legacy-peer-deps
   ```
 
 ### Usage
